@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-- [JavaScript Array Iteration Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-methods)
+- [JavaScript Array Iteration Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods)
 
 ## Instructions
 
